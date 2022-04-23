@@ -1,0 +1,11 @@
+{
+  "name": "gbweek",
+  "version": "0.0.1",
+  "description": "GB Week",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ryan Baumbach",
+  "license": "MIT"
+}
