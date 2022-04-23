@@ -1,0 +1,12 @@
+# macOS
+
+.DS_Store
+
+# JetBrains
+
+.idea
+
+# npm
+
+node_modules
+
