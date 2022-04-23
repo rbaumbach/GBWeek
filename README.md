@@ -1,3 +1,3 @@
 # GBWeek
 
-Let's get the current week..
+Let's get the current week...

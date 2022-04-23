@@ -7,5 +7,9 @@
     "test": "test"
   },
   "author": "Ryan Baumbach",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "9.2.2",
+    "chai": "4.3.6"
+  }
 }
