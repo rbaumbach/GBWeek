@@ -4,10 +4,14 @@
   "description": "GB Week",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha tests/*"
   },
   "author": "Ryan Baumbach",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rbaumbach/GBWeek"
+  },
   "dependencies": {
     "mocha": "9.2.2",
     "chai": "4.3.6"
